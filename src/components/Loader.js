@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from './assets/logo_whiteBG.png'
+import logo from '../assets/images/logo_whiteBG.png'
 
 function Loader() {
   return (

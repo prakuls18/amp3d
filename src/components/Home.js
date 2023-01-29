@@ -1,5 +1,5 @@
 import { View } from "react-native"
-import style from './src/App.module.css'
+import style from '../App.module.css'
 
 const Home = () => {
   return (
