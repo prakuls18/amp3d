@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@800&family=Rubik:wght@300;400;700&display=swap');
+
+.container {
+    display: flex;
+    align-items: 'center';
+    justify-content: 'space-between';
+}
+
+.header {
+
+}
+
+.homeBody {
+
+}
+
+.loadBackground {
+
+}
+
+.btn {
+    background-color: '#C8E7F5';
+    border: 1px;
+    border-color: black;
+    font-family: 'Raleway';
+}
+
+.footer {
+
+}
+
+.pageTitle {
+
+}
+
+.catchphrase {
+
+}
+
+.company {
+
+}
